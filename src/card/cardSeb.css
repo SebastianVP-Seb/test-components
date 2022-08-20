@@ -1,0 +1,23 @@
+.cardSeb {
+    display: flex;
+    /* justify-content: flex-start; */
+    margin: 1rem 0;
+    width: 100%;
+}
+
+.cardSeb .cardSeb_img {
+    margin-right: 1rem;
+}
+
+.cardSeb .cardSeb_p {
+    color: #2C537F;
+    font-size: small;
+    width: 100%;
+}
+
+.cardSeb .cardSeb_input {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
